@@ -18,3 +18,10 @@ example2: if the road is pointing "right" and player enter "2" for "turning left
 Known Bugs:
 1. Players can overwrite the path thats already there.
 2. If players purposely turn into a wall, the system will return error message but the direction system will mess up for the next input.
+
+
+### App Walkthough GIF
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
