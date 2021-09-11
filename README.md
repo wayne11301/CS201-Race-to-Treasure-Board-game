@@ -1,4 +1,4 @@
-# CS201-Race-to-Treasure-Self-Developed-Board-game-
+# CS201-Race-to-Treasure
 
 This program simulate the board game "Race To The Treasure"
 
